@@ -1,2 +1,1 @@
-# Delaunay_Algorithm
-Simple Implementation of the Delaunay Triangulation algorithm
+# Delaunay-triangulation-and-Voronoi-diagram
